@@ -1,0 +1,6 @@
+{
+  "name": "Quux",
+  "race": "Hobbit",
+  "class": "Burglar",
+  "companions": [ "Twyx", "Ponty" ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "hyperwizard",
+  "version": "0.0.0",
+  "description": "Siren, hypermedia and wizards",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/einarwh/hyperwizard.git"
+  },
+  "keywords": [
+    "siren",
+    "hypermedia",
+    "wizard"
+  ],
+  "author": "Einar W. Høst",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/einarwh/hyperwizard/issues"
+  },
+  "homepage": "https://github.com/einarwh/hyperwizard",
+  "dependencies": {
+    "express": "^3.4.8",
+    "request": "^2.34.0",
+    "prettyjson": "^0.13.0"
+  }
+}

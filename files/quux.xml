@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adventurer name="Quux" race="Hobbit" class="Burglar">
+  <companion>
+    <companion>Twyx</companion>
+    <companion>Ponty</companion>
+  </companions>
+</adventurer>
